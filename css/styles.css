@@ -1,0 +1,17 @@
+.navbar-brand{
+    font-family: 'Nova Round', cursive;
+}
+.header-text{
+    padding: 5%;
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Nova Round', cursive;
+    color: #bd2020;
+}
+.header{
+    background-color: #241d1d; 
+}
+.header-image{
+    width: 100%;
+    position: static;
+}
