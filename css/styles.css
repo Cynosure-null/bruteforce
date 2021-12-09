@@ -23,6 +23,18 @@ h1{
     font-family: 'Nova Round', cursive;
     padding-bottom: 3%;
 }
+h2{
+    font-size: 4em;
+    text-align: center;
+    font-family: 'Nova Round', cursive;
+    padding-bottom: 3%;
+}
+h3{
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Nova Round', cursive;
+    padding-bottom: 3%;
+}
 .navbar-brand{
     font-family: 'Nova Round', cursive;
 }
@@ -62,4 +74,16 @@ h1{
 }
 .learn-more{
     text-align: left;
+}
+.marvin-img1{
+    padding-top: 3%;
+    width: 70%
+}
+.marvin-img2{
+    padding-top: 3%;
+    width: 50%
+}
+.marvin-img3{
+    padding-top: 3%;
+    width: 50%
 }
