@@ -13,10 +13,6 @@
     background-color: #ffffff;
     color: #000000;
 }
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-}
 body{
     text-align: center;
     background-color: #bd2020;
@@ -90,4 +86,7 @@ h3{
 .marvin-img3{
     padding-top: 3%;
     width: 50%
+}
+.robot-logo{
+    width: 30%;
 }
