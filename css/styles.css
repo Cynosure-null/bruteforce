@@ -1,38 +1,62 @@
-body{
+.red-section{
+    padding: 3%;
     background-color: #bd2020;
+    color: #ffffff;
+}
+.black-section{
+    padding: 3%;
+    background-color: #241d1d;
+    color: #bd2020;
+}
+.white-section{
+    padding: 3%;
+    background-color: #ffffff;
+    color: #000000;
+}
+body{
+    text-align: center;
+    background-color: #bd2020;
+}
+h1{
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Nova Round', cursive;
+    padding-bottom: 3%;
 }
 .navbar-brand{
     font-family: 'Nova Round', cursive;
 }
-.header-text{
-    padding: 5%;
-    font-size: 5em;
-    text-align: center;
-    font-family: 'Nova Round', cursive;
-    color: #bd2020;
-}
 .header{
-    background-color: #241d1d; 
+    padding:0;
+    padding-bottom: 3%;;
 }
 .header-image{
     width: 100%;
     position: static;
 }
-.video-section{
-    padding: 5%;
-    background-color: #bd2020;
+.header-text{
+    padding-top: 3%;;
 }
 .video{
-    padding: 0;
     margin: 0 auto;
     display: block;
 }
-.card{
-    background-color: #241d1d;
-    color: white;
+.news-card{
+    border: 0;
+    background-color: #bd2020;
+    color: #ffffff;
     text-align: center;
     padding-top: 3%;
 }
-.news{
-    background-color: #241d1d;
+.sponsor-logo{
+    width: 13%;
+    margin: 0% 1.5%;
+}
+.first-img{
+    margin-left: 65%;
+    margin-right: 0;
+    width: 35%;
+}
+.btn{
+    margin: 0%, 3%;
 }
