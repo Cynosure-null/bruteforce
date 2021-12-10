@@ -13,6 +13,10 @@
     background-color: #ffffff;
     color: #000000;
 }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 body{
     text-align: center;
     background-color: #bd2020;
@@ -47,7 +51,7 @@ h3{
     position: static;
 }
 .header-text{
-    padding-top: 3%;;
+    padding-top: 3%;
 }
 .video{
     margin: 0 auto;
@@ -75,18 +79,9 @@ h3{
 .learn-more{
     text-align: left;
 }
-.marvin-img1{
-    padding-top: 3%;
-    width: 70%
-}
-.marvin-img2{
-    padding-top: 3%;
-    width: 50%
-}
-.marvin-img3{
-    padding-top: 3%;
-    width: 50%
-}
 .robot-logo{
     width: 30%;
+}
+.carousel-item{
+    padding: 3% 30% 0%;
 }
