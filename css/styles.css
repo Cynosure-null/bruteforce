@@ -109,3 +109,14 @@ h3{
     padding-left: 10%;
     padding-right: 10%;
 }
+.donate-text{
+    padding-left: 8%;
+    padding-right: 8%;
+    text-align: left;
+}
+.white-section-link{
+    color: #000000;
+}
+.red-section-link{
+    color: #ffffff;
+}
