@@ -1,12 +1,19 @@
+body{
+    text-align: center;
+    background-color: #c72020;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+}
 .red-section{
     padding: 3%;
-    background-color: #bd2020;
+    background-color: #c72020;
     color: #ffffff;
-}
-.black-section{
-    padding: 3%;
-    background-color: #241d1d;
-    color: #bd2020;
 }
 .white-section{
     padding: 3%;
@@ -17,41 +24,30 @@ html, body {
     max-width: 100%;
     overflow-x: hidden;
 }
-body{
-    text-align: center;
-    background-color: #bd2020;
-}
-h1{
-    font-size: 5em;
-    text-align: center;
-    font-family: 'Nova Round', cursive;
-    padding-bottom: 3%;
-}
-h2{
-    font-size: 4em;
-    text-align: center;
-    font-family: 'Nova Round', cursive;
-    padding-bottom: 3%;
-}
-h3{
-    font-size: 2em;
-    text-align: center;
-    font-family: 'Nova Round', cursive;
-    padding-bottom: 3%;
-}
 .navbar-brand{
-    font-family: 'Nova Round', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    text-align: right;
 }
 .header{
     padding:0;
     padding-bottom: 3%;;
+}
+.big-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 700;
 }
 .header-image{
     width: 100%;
     position: static;
 }
 .header-text{
-    padding-top: 3%;
+    padding-top: 90px;
 }
 .video{
     margin: 0 auto;
@@ -59,7 +55,7 @@ h3{
 }
 .news-card{
     border: 0;
-    background-color: #bd2020;
+    background-color: #c72020 ;
     color: #ffffff;
     text-align: center;
     padding-top: 3%;
